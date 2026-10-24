@@ -1,0 +1,8 @@
+{
+  "name": "[BUSINESS NAME] - Pest Control Services in Hyderabad",
+  "description": "Professional residential and commercial pest control services in Hyderabad. Cockroaches, termites, bed bugs, rodents, mosquitoes, and general pest treatment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
